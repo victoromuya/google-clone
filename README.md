@@ -1,4 +1,4 @@
-# Gmail Clone app with React, Redux, Auth, Firebase
+## Gmail Clone app with React, Redux, Auth, Firebase
 
 # Getting Started with Create React App and Redux
 
